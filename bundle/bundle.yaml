@@ -4,8 +4,6 @@ id: "cloudbees-ci-REPLACE_REPO"
 description: "CloudBees CI configuration bundle for the CloudBees CI controlelrs"
 availabilityPattern: "controllers/REPLACE_REPO/REPLACE_REPO"
 parent: "rbac-base"
-plugins:
-  - "plugins.yaml"
 jcasc:
   - "jcasc/"
 items:
