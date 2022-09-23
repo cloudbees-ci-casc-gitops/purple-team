@@ -13,6 +13,6 @@ unclassified:
     - "build"
     - "web"
     enabled: true
-    gracePeriod: 30
+    gracePeriod: 180
   headerLabel:
     text: "${GITHUB_REPO} - v1"
